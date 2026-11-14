@@ -1,0 +1,1937 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+directorio 700 pi pi /home/pi/.ansible/tmp
+directorio 700 pi pi /home/pi/.config
+directorio 700 pi pi /home/pi/.config/chromium
+directorio 700 pi pi /home/pi/.config/chromium/ActorSafetyLists
+directorio 700 pi pi /home/pi/.config/chromium/AmountExtractionHeuristicRegexes
+directorio 700 pi pi /home/pi/.config/chromium/CaptchaProviders
+directorio 700 pi pi /home/pi/.config/chromium/CertificateRevocation
+directorio 700 pi pi /home/pi/.config/chromium/Default
+directorio 700 pi pi /home/pi/.config/chromium/Default/AutofillAiModelCache
+directorio 700 pi pi /home/pi/.config/chromium/Default/AutofillStrikeDatabase
+directorio 700 pi pi /home/pi/.config/chromium/Default/blob_storage
+directorio 700 pi pi /home/pi/.config/chromium/Default/blob_storage/cf18b438-972a-48e3-80c7-401d0d8d366a
+directorio 700 pi pi /home/pi/.config/chromium/Default/BudgetDatabase
+directorio 700 pi pi /home/pi/.config/chromium/Default/chrome_cart_db
+directorio 700 pi pi /home/pi/.config/chromium/Default/ClientCertificates
+directorio 700 pi pi /home/pi/.config/chromium/Default/DawnGraphiteCache
+directorio 700 pi pi /home/pi/.config/chromium/Default/DawnWebGPUCache
+directorio 700 pi pi /home/pi/.config/chromium/Default/discount_infos_db
+directorio 700 pi pi /home/pi/.config/chromium/Default/discounts_db
+directorio 700 pi pi /home/pi/.config/chromium/Default/GPUCache
+directorio 700 pi pi /home/pi/.config/chromium/Default/IndexedDB
+directorio 700 pi pi /home/pi/.config/chromium/Default/IndexedDB/https_manage.realvnc.com_0.indexeddb.leveldb
+directorio 700 pi pi /home/pi/.config/chromium/Default/PersistentOriginTrials
+directorio 700 pi pi /home/pi/.config/chromium/Default/Sessions
+directorio 700 pi pi /home/pi/.config/chromium/Default/Sessions_Encrypted
+directorio 700 pi pi /home/pi/.config/chromium/Default/shared_proto_db
+directorio 700 pi pi /home/pi/.config/chromium/Default/shared_proto_db/metadata
+directorio 700 pi pi /home/pi/.config/chromium/Default/WebStorage
+directorio 700 pi pi /home/pi/.config/chromium/Dictionaries
+directorio 700 pi pi /home/pi/.config/chromium/FileTypePolicies
+directorio 700 pi pi /home/pi/.config/chromium/FirstPartySetsPreloaded
+directorio 700 pi pi /home/pi/.config/chromium/GPUPersistentCache
+directorio 700 pi pi /home/pi/.config/chromium/GPUPersistentCache/GPUCache
+directorio 700 pi pi /home/pi/.config/chromium/GPUPersistentCache/GPUCache/DOZVSIMZACCOVWO46PWMD5Q2373E2IP3
+directorio 700 pi pi /home/pi/.config/chromium/hyphen-data
+directorio 700 pi pi /home/pi/.config/chromium/MEIPreload
+directorio 700 pi pi /home/pi/.config/chromium/NativeMessagingHosts
+directorio 700 pi pi /home/pi/.config/chromium/OnDeviceHeadSuggestModel
+directorio 700 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest
+directorio 700 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2
+directorio 700 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/_metadata
+directorio 700 pi pi /home/pi/.config/chromium/OptimizationHints
+directorio 700 pi pi /home/pi/.config/chromium/OriginTrials
+directorio 700 pi pi /home/pi/.config/chromium/PKIMetadata
+directorio 700 pi pi /home/pi/.config/chromium/PrivacySandboxAttestationsPreloaded
+directorio 700 pi pi /home/pi/.config/chromium/SafetyTips
+directorio 700 pi pi /home/pi/.config/chromium/segmentation_platform
+directorio 700 pi pi /home/pi/.config/chromium/SSLErrorAssistant
+directorio 700 pi pi /home/pi/.config/chromium/TrustTokenKeyCommitments
+directorio 700 pi pi /home/pi/.config/chromium/WasmTtsEngine
+directorio 700 pi pi /home/pi/.config/chromium/WidevineCdm
+directorio 700 pi pi /home/pi/.config/chromium/ZxcvbnData
+directorio 700 pi pi /home/pi/.config/dconf
+directorio 700 pi pi /home/pi/.config/gtk-3.0
+directorio 700 pi pi /home/pi/.config/libfm
+directorio 700 pi pi /home/pi/.config/Mousepad
+directorio 700 pi pi /home/pi/.config/pcmanfm
+directorio 700 pi pi /home/pi/.config/pcmanfm/LXDE-pi
+directorio 700 pi pi /home/pi/Vídeos/RealVNC
+directorio 700 pi pi /home/pi/.vnc
+directorio 700 pi pi /home/pi/.vnc/config.d
+directorio 700 pi pi /home/pi/.vnc/config.d/vncviewer.d
+directorio 700 pi pi /home/pi/.vnc/ViewerStore
+directorio 755 pi pi config
+directorio 755 pi pi db_migrations
+directorio 755 pi pi /home/pi
+directorio 755 pi pi /home/pi/.ansible
+directorio 755 pi pi /home/pi/.config/kanshi
+directorio 755 pi pi /home/pi/.config/labwc
+directorio 755 pi pi /home/pi/.config/meteordemod
+directorio 755 pi pi /home/pi/.config/meteordemod/kernels
+directorio 755 pi pi /home/pi/.config/meteordemod/ShapeFiles
+directorio 755 pi pi /home/pi/.config/satdump
+directorio 755 pi pi /home/pi/.config/xsettingsd
+directorio 755 pi pi /home/pi/Descargas
+directorio 755 pi pi /home/pi/Documentos
+directorio 755 pi pi /home/pi/Imágenes
+directorio 755 pi pi /home/pi/Música
+directorio 755 pi pi /home/pi/Plantillas
+directorio 755 pi pi /home/pi/.predict
+directorio 755 pi pi /home/pi/Público
+directorio 755 pi pi /home/pi/raspberry-noaa-v2
+directorio 755 pi pi /home/pi/raspberry-noaa-v22
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/group_vars
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/handlers
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/templates
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/files
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/handlers
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/tasks
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/templates
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/assets
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/config
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/config/annotation
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/config/annotation@@
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/db_backups
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/db_migrations
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/docs
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/docs/assets
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/docs/assets/images
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/prune_scripts
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/software
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/tmp
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Controllers
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Models
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Admin
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Captures
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Passes
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/Lib
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/public
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/js
+directorio 755 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/web_img
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/group_vars
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/handlers
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/templates
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/files
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/handlers
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/tasks
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/templates
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/assets
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/backups
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/config
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/config/annotation
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/db_backups
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/db_migrations
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/docs
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/docs/assets
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/docs/assets/images
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/prune_scripts
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/software
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/tmp
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Controllers
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Models
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Admin
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Captures
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Passes
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/Lib
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/public
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/js
+directorio 755 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/web_img
+directorio 755 pi pi /home/pi/.rn2_utils
+directorio 755 pi pi /home/pi/rtl-sdr
+directorio 755 pi pi /home/pi/rtl-sdr/cmake
+directorio 755 pi pi /home/pi/rtl-sdr/cmake/Modules
+directorio 755 pi pi /home/pi/rtl-sdr/contrib
+directorio 755 pi pi /home/pi/rtl-sdr/debian
+directorio 755 pi pi /home/pi/rtl-sdr/include
+directorio 755 pi pi /home/pi/rtl-sdr/m4
+directorio 755 pi pi /home/pi/Vídeos
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/generated
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr0
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr-dev
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/generated/rtl-sdr
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/DEBIAN
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/lib
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/lib/debug
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/lib/debug/.build-id
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/lib/debug/.build-id/d2
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/share
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/share/doc
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/DEBIAN
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/2d
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/35
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/45
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/4a
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/72
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/7a
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/ba
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/d2
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/share
+directorio 755 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/share/doc
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/etc
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/etc/modprobe.d
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/lib
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/lib/udev
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/lib/udev/rules.d
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr/lib
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr/share
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr/share/doc
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr/share/doc/librtlsdr0
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr/share/metainfo
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/DEBIAN
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/include
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/lib
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/share
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/share/doc
+directorio 755 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/share/doc/librtlsdr-dev
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/DEBIAN
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/doc
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/doc/rtl-sdr
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/doc/rtl-sdr/examples
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man
+directorio 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1
+directorio 755 root root /home/pi/rtl-sdr/debian/tmp
+directorio 770 pi pi /home/pi/raspberry-noaa-v22/ansible/ramfs_path
+directorio 770 pi pi /home/pi/raspberry-noaa-v2/ansible/ramfs_path
+directorio 770 pi www-data /home/pi/raspberry-noaa-v22/db
+directorio 770 pi www-data /home/pi/raspberry-noaa-v2/db
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/BookmarkMergedSurfaceOrdering
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Cookies
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnGraphiteCache/data_0
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnGraphiteCache/data_1
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnGraphiteCache/data_2
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnGraphiteCache/data_3
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnGraphiteCache/index
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnWebGPUCache/data_0
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnWebGPUCache/data_1
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnWebGPUCache/data_2
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnWebGPUCache/data_3
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DawnWebGPUCache/index
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/declarative_performance_observer.db
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/DIPS
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Favicons
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/GPUCache/data_0
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/GPUCache/data_1
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/GPUCache/data_2
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/GPUCache/data_3
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/GPUCache/index
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/heavy_ad_intervention_opt_out.db
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/History
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/IndexedDB/https_manage.realvnc.com_0.indexeddb.leveldb/CURRENT
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/IndexedDB/https_manage.realvnc.com_0.indexeddb.leveldb/LOG
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/IndexedDB/https_manage.realvnc.com_0.indexeddb.leveldb/MANIFEST-000002
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Preferences
+fichero regular 644 pi pi /home/pi/.config/chromium/Default/PreferredApps
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/ServerCertificate
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Sessions_Encrypted/Session_13438216296720689
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Sessions_Encrypted/Tabs_13438216320138053
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Sessions/Session_13438216292413916
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Sessions/Tabs_13438216320137443
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/CURRENT
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/LOG
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/MANIFEST-000002
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/metadata/CURRENT
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/metadata/LOG
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/metadata/MANIFEST-000002
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/Shortcuts
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/TransportSecurity
+fichero regular 600 pi pi /home/pi/.config/chromium/Default/WebStorage/QuotaManager
+fichero regular 644 pi pi /home/pi/.config/chromium/Dictionaries/es-ES-3-0.bdic
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/manifest.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/manifest.json
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/_metadata/verified_contents.json
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_gemma4_12b_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_gemma4_4b_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_gemma4_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/prompt_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/proofreader_small_expert_model_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/scam_detection_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/speech_recognition_small_expert_model_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_gemma4_12b_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_gemma4_4b_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_gemma4_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_nano_v3_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/summarizer_small_expert_model_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_gemma4_12b_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_gemma4_4b_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_gemma4_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/writing_assistance_solution_config.binarypb
+fichero regular 600 pi pi /home/pi/.config/chromium/segmentation_platform/ukm_db
+fichero regular 644 pi pi /home/pi/.config/chromium/Variations
+fichero regular 644 pi pi /home/pi/.config/dconf/user
+fichero regular 644 pi pi /home/pi/.config/labwc/environment
+fichero regular 644 pi pi /home/pi/.config/libfm/libfm.conf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/kernels/tps.cl
+fichero regular 644 pi pi /home/pi/.config/meteordemod/rain.bmp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/settings.ini
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_admin_0_countries.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_admin_0_countries.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_admin_0_countries.shx
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_coastline.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_geography_regions_elevation_points.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_geography_regions_elevation_points.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_10m_geography_regions_elevation_points.shx
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_110m_graticules_10.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_110m_graticules_10.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_110m_graticules_10.shx
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_admin_0_boundary_lines_land.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_admin_0_boundary_lines_land.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_admin_0_boundary_lines_land.shx
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_coastline.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_coastline.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_coastline.shx
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_lakes.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_populated_places.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_populated_places.shp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_populated_places.shx
+fichero regular 644 pi pi /home/pi/.config/meteordemod/ShapeFiles/ne_50m_rivers_lake_centerlines.dbf
+fichero regular 644 pi pi /home/pi/.config/meteordemod/thermal_ref2.bmp
+fichero regular 644 pi pi /home/pi/.config/meteordemod/thermal_ref.bmp
+fichero regular 644 pi pi /home/pi/.config/Mousepad/accels.scm
+fichero regular 644 pi pi /home/pi/.config/pcmanfm/LXDE-pi/pcmanfm.conf
+fichero regular 644 pi pi /home/pi/.config/satdump/satdump_tles.txt
+fichero regular 644 pi pi /home/pi/.config/xsettingsd/xsettingsd.conf
+fichero regular 644 pi pi /home/pi/crontab_pre_geo_validation_20261108_223911.bak
+fichero regular 644 root root /home/pi/librtlsdr0_2.0.3_arm64.deb
+fichero regular 644 root root /home/pi/librtlsdr0-dbgsym_2.0.3_arm64.deb
+fichero regular 644 root root /home/pi/librtlsdr-dev_2.0.3_arm64.deb
+fichero regular 644 pi pi /home/pi/.noaa-v2.conf
+fichero regular 644 pi pi /home/pi/.noaa-v2.conf.pre_serial_ids
+fichero regular 644 pi pi /home/pi/.predict/predict.qth
+fichero regular 644 pi pi /home/pi/.profile
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/core.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/group_vars/all.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/hosts
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/52-airspy.rules
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/airspy-blacklist.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/annotation.html.j2_file
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/blacklist-msi.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/bluesky.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/disable-wifi-powermgmt.service
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/disable-wifi-powermgmt.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/facebook.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/instagram.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/mastodon.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/rn2_backup_restore.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/rn2_uninstall.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/rn2_upgrade.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/rtlsdr.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/tweepy.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/files/wxtoimglic
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/handlers/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/configs.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/dependencies.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/ntp.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/ramfs.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/sdr.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/social_media.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/tasks/tools.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/templates/noaa-v2.conf.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/templates/ntp.conf.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/templates/predict.qth.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/templates/satdump_cfg.json.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/common/templates/settings.ini.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/files/020_www-data-atrm-nopasswd
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/handlers/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/tasks/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/templates/Config.php.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/templates/nginx_default_bookworm.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/templates/nginx_default_bullseye.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/templates/nginx_tls_default_bookworm.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/roles/webserver/templates/nginx_tls_default_bullseye.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/site.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/ansible/webserver.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/assets/header_1600_v2.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/assets/thermal_gauge.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/config/annotation/11.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/config/annotation/annotation.html.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/config/settings_schema.json
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/config/settings.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/config/settings.ymll
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/00_seed_schema.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/01_add_spectrogram_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/02_add_noaa_pristine_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/03_add_pass_azimuth_direction.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/04_add_capture_gain.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/05_add_pass_azimuth_at_max.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/06_add_polar_az_el_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/07_add_polar_direction_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/08_add_histogram_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/db_migrations/09_add_at_job_id.sql
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/db_migrations/update_database.sh
+fichero regular 770 pi www-data /home/pi/raspberry-noaa-v22/db/panel.db
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/annotation.md
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/docs/assets/images/oversaturated_scan.jpg
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/docs/assets/images/scan_annotated.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/assets/images/webpanel-admin.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/assets/images/webpanel-captures.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/assets/images/webpanel-pass-list.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/db_backups.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/discord_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/emailing.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/facebook_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/hardware.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/instagram_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/matrix_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/meteor.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/migrate_from_raspberry_noaa.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/pruning.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/tls_webserver.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/troubleshooting.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/twitter_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/docs/webpanel_screenshots.md
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/install_and_upgrade.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/LICENSE
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/README.md
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/common.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/histogram.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/meteor_normalize_annotate.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/noaa_avi.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/noaa_enhancements.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/noaa_histogram_data.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/noaa_normalize_annotate.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/noaa_pristine.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/polar_plot.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/spectrogram.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/image_processors/thumbnail.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/post_to_twitter.py
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_bluesky.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_discord.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_email.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_facebook.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_instagram.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_mastodon.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_matrix.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_pushover.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_slack.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/push_processors/push_twitter.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/receive_meteor.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/receive_noaa.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/schedule_captures.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/schedule.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/schedule.shh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/select_best_overlapping_passes.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/generate_waterfall.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/heatmap.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/produce_annotation_image.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/scan_for.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/start_scanning.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/stop_and_finalize_scanning.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/t2sec.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/test_reception.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/testing/Vera.ttf
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/atrm_rule_and_removal.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/db_backup.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/jinja2_to_file.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/scratch_perms.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/set_os_config_kernel8.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/sun.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/validate_yaml.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config/build_permissions_list.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config/package_arm64.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config/package.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config/permissions_arm64.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config/permissions.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/config/permissions_other.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/meteordemod-input.cadu
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/meteordemod-input.tle
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/wxtoimg-input.tle
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/wxtoimg-input.wav
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/wxtoimg-map-input.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/wxtoimg-map-output.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/test_files/wxtoimg-mcir-output.jpg
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v22/scripts/tools/verification_tool/verification.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/anydesk_6.3.0-1_amd64.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/anydesk_6.3.0-1_armhf.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/predict_2.2.3-4-b2_amd64.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/predict_2.2.5+dfsg.1-1_arm64.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/predict_2.2.5+dfsg.1-1_armhf.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/satdump_1.2.1-397f9ed6_bookworm_arm64.deb
+enlace simbólico 777 pi pi /home/pi/raspberry-noaa-v22/software/wxtoimg-arm64-2.11.2-beta.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/software/wxtoimg-armhf-2.11.2-beta.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Controllers/AdminController.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Controllers/AdminController.php.2026-11-03_23:58:1793746683
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Controllers/CapturesController.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Controllers/PassesController.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/ar.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/bg.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/cn.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/de.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/en.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/es.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/fr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/gr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/hu.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/it.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/kr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/lt.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/nl.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/pt.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/ro.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/ru.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Lang/sr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Models/Capture.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Models/Pass.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Admin/captures.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Admin/nav.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Admin/passes.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/base.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Captures/index.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Captures/pagination.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Captures/show.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/App/Views/Passes/index.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/composer.json
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/composer.lock
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/Lib/Controller.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/Lib/Model.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/Lib/Router.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/Lib/View.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css/admin.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css/captures.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css/footer.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css/header.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css/pagination.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/css/pass_list.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/js/admin.js
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/js/tooltips.js
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/assets/web_img/favicon.ico
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/enhancement_details.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/index.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v22/webpanel/public/index.php.2026-11-04_00:00:1793746816
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/core.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/group_vars/all.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/hosts
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/52-airspy.rules
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/airspy-blacklist.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/annotation.html.j2_file
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/blacklist-msi.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/bluesky.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/disable-wifi-powermgmt.service
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/disable-wifi-powermgmt.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/facebook.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/instagram.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/mastodon.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/rn2_backup_restore.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/rn2_uninstall.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/rn2_upgrade.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/rtlsdr.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/tweepy.conf
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/files/wxtoimglic
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/handlers/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/configs.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/dependencies.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/ntp.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/ramfs.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/sdr.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/social_media.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/tasks/tools.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/templates/noaa-v2.conf.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/templates/ntp.conf.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/templates/predict.qth.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/templates/satdump_cfg.json.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/common/templates/settings.ini.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/files/020_www-data-atrm-nopasswd
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/handlers/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/tasks/main.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/templates/Config.php.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/templates/nginx_default_bookworm.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/templates/nginx_default_bullseye.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/templates/nginx_tls_default_bookworm.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/roles/webserver/templates/nginx_tls_default_bullseye.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/site.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/ansible/webserver.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/assets/header_1600_v2.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/assets/thermal_gauge.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/config/annotation/11.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/config/annotation/annotation.html.j2
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/config/settings_schema.json
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/config/settings.yml
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/00_seed_schema.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/01_add_spectrogram_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/02_add_noaa_pristine_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/03_add_pass_azimuth_direction.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/04_add_capture_gain.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/05_add_pass_azimuth_at_max.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/06_add_polar_az_el_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/07_add_polar_direction_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/08_add_histogram_bool.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/09_add_at_job_id.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/10_add_geo_event_support.sql
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db_migrations/11_add_capture_time.sql
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/db_migrations/update_database.sh
+fichero regular 770 pi www-data /home/pi/raspberry-noaa-v2/db/panel.db
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db/panel.db.pre_elektro_20261108_164724
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db/panel.db.pre_elektro_journal_20261108_200636
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db/panel.db.pre_journal_end_20261108_204447
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db/panel.db.pre_l3_20261107_225335.bak
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/db/panel.db.test_l3
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/annotation.md
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/docs/assets/images/oversaturated_scan.jpg
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/docs/assets/images/scan_annotated.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/assets/images/webpanel-admin.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/assets/images/webpanel-captures.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/assets/images/webpanel-pass-list.jpg
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/db_backups.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/discord_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/emailing.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/facebook_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/hardware.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/instagram_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/matrix_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/meteor.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/migrate_from_raspberry_noaa.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/pruning.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/tls_webserver.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/troubleshooting.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/twitter_push.md
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/docs/webpanel_screenshots.md
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/install_and_upgrade.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/LICENSE
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/README.md
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/apply_settings.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/common.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/diagnose_elektro_cs16.sh
+fichero regular 750 pi pi /home/pi/raspberry-noaa-v2/scripts/finalize_elektro_l3.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/elektro_annotate.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/histogram.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/meteor_normalize_annotate.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/noaa_avi.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/noaa_enhancements.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/noaa_histogram_data.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/noaa_normalize_annotate.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/noaa_pristine.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/polar_plot.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/spectrogram.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/image_processors/thumbnail.sh
+fichero regular 750 pi pi /home/pi/raspberry-noaa-v2/scripts/process_elektro_offline.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/post_to_twitter.py
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_bluesky.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_discord.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_email.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_facebook.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_instagram.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_mastodon.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_matrix.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_pushover.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_slack.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/push_processors/push_twitter.sh
+fichero regular 750 pi pi /home/pi/raspberry-noaa-v2/scripts/receive_elektro_l3.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/receive_meteor.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/receive_meteor.sh.pre_lock_revert_20261108_223532
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/receive_meteor.sh.pre_receiver_lock_20261108_222752
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/receive_noaa.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/schedule_captures.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/schedule_elektro_l3.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/schedule_elektro_l3.py.pre_transition_fix_20261108
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/schedule.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/select_best_overlapping_passes.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/generate_waterfall.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/heatmap.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/produce_annotation_image.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/scan_for.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/start_scanning.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/stop_and_finalize_scanning.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/t2sec.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/test_reception.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/testing/Vera.ttf
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/atrm_rule_and_removal.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/db_backup.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/jinja2_to_file.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/scratch_perms.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/set_os_config_kernel8.sh
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/sun.py
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/validate_jsonc.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/validate_yaml.py
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config/build_permissions_list.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config/package_arm64.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config/package.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config/permissions_arm64.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config/permissions_other.list
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/meteordemod-input.cadu
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/meteordemod-input.tle
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/wxtoimg-input.tle
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/wxtoimg-input.wav
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/wxtoimg-map-input.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/wxtoimg-map-output.png
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/test_files/wxtoimg-mcir-output.jpg
+fichero regular 755 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/verification.sh
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/anydesk_6.3.0-1_amd64.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/anydesk_6.3.0-1_armhf.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/predict_2.2.3-4-b2_amd64.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/predict_2.2.5+dfsg.1-1_arm64.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/predict_2.2.5+dfsg.1-1_armhf.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/satdump_1.2.1-397f9ed6_bookworm_arm64.deb
+enlace simbólico 777 pi pi /home/pi/raspberry-noaa-v2/software/wxtoimg-arm64-2.11.2-beta.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/software/wxtoimg-armhf-2.11.2-beta.deb
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Controllers/AdminController.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Controllers/CapturesController.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Controllers/PassesController.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/ar.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/bg.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/cn.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/de.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/en.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/es.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/fr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/gr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/hu.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/it.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/kr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/lt.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/nl.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/pt.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/ro.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/ru.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Lang/sr.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Models/Capture.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Models/Pass.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Admin/captures.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Admin/nav.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Admin/passes.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/base.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Captures/index.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Captures/pagination.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Captures/show.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/App/Views/Passes/index.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/composer.json
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/composer.lock
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/Lib/Controller.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/Lib/Model.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/Lib/Router.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/Lib/View.php
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css/admin.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css/captures.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css/footer.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css/header.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css/pagination.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/css/pass_list.css
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/js/admin.js
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/js/tooltips.js
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/assets/web_img/favicon.ico
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/enhancement_details.html
+fichero regular 644 pi pi /home/pi/raspberry-noaa-v2/webpanel/public/index.php
+fichero regular 755 pi pi /home/pi/.rn2_utils/rn2_backup_restore.sh
+fichero regular 755 pi pi /home/pi/.rn2_utils/rn2_uninstall.sh
+fichero regular 755 pi pi /home/pi/.rn2_utils/rn2_upgrade.sh
+fichero regular 644 root root /home/pi/rtl-sdr_2.0.3_arm64.buildinfo
+fichero regular 644 root root /home/pi/rtl-sdr_2.0.3_arm64.changes
+fichero regular 644 root root /home/pi/rtl-sdr_2.0.3_arm64.deb
+fichero regular 644 pi pi /home/pi/rtl-sdr/AUTHORS
+fichero regular 644 pi pi /home/pi/rtl-sdr/cmake/cmake_uninstall.cmake.in
+fichero regular 644 pi pi /home/pi/rtl-sdr/CMakeLists.txt
+fichero regular 644 pi pi /home/pi/rtl-sdr/cmake/Modules/Version.cmake
+fichero regular 644 pi pi /home/pi/rtl-sdr/cmake/rtlsdrConfig.cmake
+fichero regular 755 root root /home/pi/rtl-sdr/compile
+fichero regular 755 root root /home/pi/rtl-sdr/config.guess
+fichero regular 644 root root /home/pi/rtl-sdr/config.h.in
+fichero regular 755 root root /home/pi/rtl-sdr/config.sub
+fichero regular 755 root root /home/pi/rtl-sdr/configure
+fichero regular 644 pi pi /home/pi/rtl-sdr/configure.ac
+fichero regular 755 pi pi /home/pi/rtl-sdr/contrib/jenkins.sh
+fichero regular 644 pi pi /home/pi/rtl-sdr/COPYING
+fichero regular 644 root root /home/pi/rtl-sdr-dbgsym_2.0.3_arm64.deb
+fichero regular 644 root root /home/pi/rtl-sdr/debian/autoreconf.after
+fichero regular 644 root root /home/pi/rtl-sdr/debian/autoreconf.before
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/compat
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/control
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/copyright
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/copyright-scan-patterns.yml
+fichero regular 644 root root /home/pi/rtl-sdr/debian/debhelper-build-stamp
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr0/installed-by-dh_install
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr0/triggers
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr-dev/installed-by-dh_install
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/rtl-sdr/installed-by-dh_install
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/rtl-sdr/installed-by-dh_installexamples
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/rtl-sdr/installed-by-dh_installman
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-build-ids
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/DEBIAN/control
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/DEBIAN/md5sums
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/lib/debug/.build-id/d2/f5e2f3136338037efd249e13b13099964d9138.debug
+enlace simbólico 777 root root /home/pi/rtl-sdr/debian/.debhelper/librtlsdr0/dbgsym-root/usr/share/doc/librtlsdr0-dbgsym
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-build-ids
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/DEBIAN/control
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/DEBIAN/md5sums
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/2d/aa2ef3533c6eeff29203d2f910a81c8707ee35.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/35/dc1cf18a611b46f922b130f87337a43be367b6.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/45/7d3e1452cf3478ebbdb0b54ed6050a95e4f808.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/4a/d68a369692f06d85f25a0d1591ab07daabc0c6.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/72/ae1e63b505406deaf34815248529a741c8d364.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/7a/22275fd0955364e36326e7e010d20e842bda5c.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/ba/2fd3f031a03aabb010aac130681286acc4d5ef.debug
+fichero regular 644 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/lib/debug/.build-id/d2/e2eb38079c7279214970837148723872635d02.debug
+enlace simbólico 777 root root /home/pi/rtl-sdr/debian/.debhelper/rtl-sdr/dbgsym-root/usr/share/doc/rtl-sdr-dbgsym
+fichero regular 644 root root /home/pi/rtl-sdr/debian/files
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/heatmap.py
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/control
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/md5sums
+fichero regular 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/postinst
+fichero regular 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/postrm
+fichero regular 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/preinst
+fichero regular 755 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/prerm
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/shlibs
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0/DEBIAN/triggers
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr0.dirs
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr0.install
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0/lib/udev/rules.d/60-librtlsdr0.rules
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr0.maintscript
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0.postinst.debhelper
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0.postrm.debhelper
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0.preinst.debhelper
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0.prerm.debhelper
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0.substvars
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr0.udev
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr0/usr/share/doc/librtlsdr0/copyright
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr0/usr/share/metainfo/org.osmocom.librtlsdr.metainfo.xml
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr-dev.acc
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/DEBIAN/control
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/DEBIAN/md5sums
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr-dev.dirs
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/librtlsdr-dev.install
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev.substvars
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/include/rtl-sdr_export.h
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/include/rtl-sdr.h
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/share/doc/librtlsdr-dev/copyright
+fichero regular 644 root root /home/pi/rtl-sdr/debian/librtlsdr-dev/usr/share/doc/librtlsdr-dev/README.Debian
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/org.osmocom.librtlsdr.metainfo.xml
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/README.Debian
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_adsb.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_biast.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_eeprom.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_fm.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_power.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_sdr.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl-sdr-blacklist.conf
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/DEBIAN/control
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/DEBIAN/md5sums
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl-sdr.dirs
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl-sdr.examples
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl-sdr.install
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl-sdr.manpages
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr.substvars
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_adsb
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_biast
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_eeprom
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_fm
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_power
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_sdr
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_tcp
+fichero regular 755 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/bin/rtl_test
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/doc/rtl-sdr/copyright
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/doc/rtl-sdr/examples/heatmap.py
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_adsb.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_biast.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_eeprom.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_fm.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_power.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_sdr.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_tcp.1.gz
+fichero regular 644 root root /home/pi/rtl-sdr/debian/rtl-sdr/usr/share/man/man1/rtl_test.1.gz
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_tcp.1
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/rtl_test.1
+fichero regular 755 pi pi /home/pi/rtl-sdr/debian/rules
+fichero regular 644 pi pi /home/pi/rtl-sdr/debian/watch
+fichero regular 755 root root /home/pi/rtl-sdr/depcomp
+fichero regular 644 pi pi /home/pi/rtl-sdr/Doxyfile.in
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/CMakeLists.txt
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/Makefile.am
+fichero regular 644 root root /home/pi/rtl-sdr/include/Makefile.in
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/reg_field.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/rtl-sdr_export.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/rtl-sdr.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/rtlsdr_i2c.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/tuner_e4k.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/tuner_fc0012.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/tuner_fc0013.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/tuner_fc2580.h
+fichero regular 644 pi pi /home/pi/rtl-sdr/include/tuner_r82xx.h
+fichero regular 755 root root /home/pi/rtl-sdr/install-sh
+fichero regular 644 pi pi /home/pi/rtl-sdr/librtlsdr.pc.in
+fichero regular 755 root root /home/pi/rtl-sdr/ltmain.sh
+fichero regular 644 root root /home/pi/rtl-sdr/m4/libtool.m4
+fichero regular 644 root root /home/pi/rtl-sdr/m4/lt~obsolete.m4
+fichero regular 644 root root /home/pi/rtl-sdr/m4/ltoptions.m4
+fichero regular 644 root root /home/pi/rtl-sdr/m4/ltsugar.m4
+fichero regular 644 root root /home/pi/rtl-sdr/m4/ltversion.m4
+fichero regular 644 pi pi /home/pi/rtl-sdr/Makefile.am
+fichero regular 644 root root /home/pi/rtl-sdr/Makefile.in
+fichero regular 755 root root /home/pi/rtl-sdr/missing
+fichero regular 644 pi pi /home/pi/rtl-sdr/README
+fichero regular 644 pi pi /home/pi/rtl-sdr/rtl-sdr.rules
+fichero regular 644 pi pi /home/pi/rtl-sdr/.travis.yml
+fichero regular 644 pi pi /home/pi/.vnc/config.d/deviceId
+fichero regular 644 pi pi /home/pi/.vnc/config.d/vncviewer
+fichero regular 644 pi pi /home/pi/.vnc/config.d/vncviewer.d/BootstrapCache.pkg
+fichero regular 644 pi pi /home/pi/.vnc/config.d/vncviewer.d/CloudCredentials.bed
+fichero regular 644 pi pi /home/pi/.vnc/config.d/vncviewer.d/CloudDirectories.bed
+fichero regular 644 pi pi /home/pi/.vnc/config.d/vncviewer.d/CloudSyncCache.bed
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/02d4751c-dda8-46a6-86ae-f6be52ae41c9.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/136280ed-18fa-44e5-b6d2-0c07ba4fee41.jrle
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/136280ed-18fa-44e5-b6d2-0c07ba4fee41.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/19c90872-b812-4e8f-ba41-fb09a8034169.jrle
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/19c90872-b812-4e8f-ba41-fb09a8034169.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/19e2c767-9b04-44c9-93f4-3c9de7af004d.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/1c7a4fad-2083-43f9-bfda-57b67805fada.jrle
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/1c7a4fad-2083-43f9-bfda-57b67805fada.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/3e578c65-4e47-4ae2-a661-e33dea34390d.jrle
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/3e578c65-4e47-4ae2-a661-e33dea34390d.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/6a58e3a7-24bd-4654-a6ef-ad89648e1ef1.jrle
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/6a58e3a7-24bd-4654-a6ef-ad89648e1ef1.vnc
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/ca25fd46-6fe0-45fb-a181-059e6580315f.jrle
+fichero regular 644 pi pi /home/pi/.vnc/ViewerStore/ca25fd46-6fe0-45fb-a181-059e6580315f.vnc
+fichero regular 644 pi pi /home/pi/.wxtoimglic
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/AutofillAiModelCache/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/AutofillAiModelCache/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/AutofillStrikeDatabase/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/AutofillStrikeDatabase/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/BudgetDatabase/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/BudgetDatabase/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/chrome_cart_db/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/chrome_cart_db/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/ClientCertificates/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/ClientCertificates/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/Cookies-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/declarative_performance_observer.db-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/discount_infos_db/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/discount_infos_db/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/discounts_db/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/discounts_db/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/Favicons-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/heavy_ad_intervention_opt_out.db-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/History-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/IndexedDB/https_manage.realvnc.com_0.indexeddb.leveldb/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/PersistentOriginTrials/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/PersistentOriginTrials/LOG
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/ServerCertificate-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/shared_proto_db/metadata/LOCK
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/Shortcuts-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/Default/WebStorage/QuotaManager-journal
+fichero regular vacío 600 pi pi /home/pi/.config/chromium/OptimizationGuideModelsManifest/1.20261018.2/laya_solution_config.binarypb
+fichero regular vacío 644 pi pi /home/pi/.config/kanshi/config
+fichero regular vacío 644 pi pi /home/pi/raspberry-noaa-v22/{changed:
+fichero regular vacío 644 pi pi /home/pi/raspberry-noaa-v22/software/satdump_1.2.1-397f9ed6_bookworm_amd64.deb
+fichero regular vacío 644 pi pi /home/pi/raspberry-noaa-v2/scripts/tools/verification_tool/config/permissions.list
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr0/installed-by-dh_installdocs
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr0/installed-by-dh_installexamples
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr0/installed-by-dh_installman
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr-dev/installed-by-dh_installdocs
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr-dev/installed-by-dh_installexamples
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/librtlsdr-dev/installed-by-dh_installman
+fichero regular vacío 644 root root /home/pi/rtl-sdr/debian/.debhelper/generated/rtl-sdr/installed-by-dh_installdocs
