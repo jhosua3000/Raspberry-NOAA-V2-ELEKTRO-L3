@@ -103,7 +103,7 @@ meteor_m2_4_80k_interleaving: false
 # Schedule windows use local Raspberry Pi time (Europe/Madrid).
 # Days: mon, tue, wed, thu, fri, sat, sun.
 # Windows crossing midnight are handled by the scheduler.
-elektro_l3_schedule: false
+elektro_l3_schedule: true
 elektro_l3_schedule_windows:
   - days: [mon, tue, wed, thu, fri, sat, sun]
     start: "01:40"
@@ -279,7 +279,7 @@ meteor_create_spreaded_images_without_overlay: true
 #                         https://www.php.net/manual/en/datetime.format.php or else bad things will happen
 web_server_name: raspberry-noaa.localdomain
 enable_non_tls: true
-web_port: 1025
+web_port: 80
 enable_tls: false
 web_tls_port: 443
 lock_admin_page: true

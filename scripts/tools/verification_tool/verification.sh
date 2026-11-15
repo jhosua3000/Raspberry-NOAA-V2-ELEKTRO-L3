@@ -136,7 +136,7 @@ perms() {
   #echo "-----------------"
 
   if [[ -e $path ]]; then
-    status=$(stat -c "%F %a %U %G %n" ${path})
+    status=$(LC_ALL=C stat -c "%F %a %U %G %n" ${path} | sed "s/^regular empty file /regular file /")
     if [[ "${status}" == "${ptype} ${rperms} ${owner} ${group} ${path}" ]]; then
       loggit "PASS" "${status}"
       PASSES=$(expr ${PASSES} + 1)
