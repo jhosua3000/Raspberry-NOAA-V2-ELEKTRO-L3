@@ -130,4 +130,15 @@ else
   log "  - ${script} already applied" "INFO"
 fi
 
+script="12_add_elektro_operations_journal.sql"
+check=$($SQL_CMD $NOAA_HOME/db/panel.db ".schema elektro_at_operations")
+if [ -z "${check}" ]; then
+  log "  - applying ${script}" "INFO"
+  if ! $SQL_CMD $NOAA_HOME/db/panel.db < $NOAA_HOME/db_migrations/$script; then
+    log "ERROR applying ${script}" "ERROR"
+    exit 1
+  fi
+else
+  log "  - ${script} already applied" "INFO"
+fi
 log "Schema updates complete!" "INFO"
