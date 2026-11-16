@@ -14,21 +14,6 @@
 . "$HOME/.noaa-v2.conf"
 . "$NOAA_HOME/scripts/common.sh"
 
-# Reconcile ELEKTRO-L3 GEO windows before orbital scheduling or early exit.
-log "Reconciling ELEKTRO-L3 GEO windows..." "INFO"
-if ! python3 "$NOAA_HOME/scripts/schedule_elektro_l3.py" \
-    --config "$HOME/.noaa-v2.conf" --apply >> "$NOAA_LOG" 2>&1; then
-  log "ELEKTRO-L3 GEO reconciliation failed; stopping scheduler." "ERROR"
-  exit 1
-fi
-
-# Enforce GEO priority over already scheduled Meteor captures.
-log "Applying ELEKTRO-L3 GEO priority over Meteor captures..." "INFO"
-if ! python3 "$NOAA_HOME/scripts/select_best_overlapping_passes.py" \
-    "$DB_FILE" "$SELECT_METEOR_PASS_OVER_NOAA" >> "$NOAA_LOG" 2>&1; then
-  log "ELEKTRO-L3 GEO priority resolution failed; stopping scheduler." "ERROR"
-  exit 1
-fi
 
 # TLE data files
 WEATHER_TXT="${NOAA_HOME}/tmp/weather.txt"
@@ -142,6 +127,7 @@ grep "METEOR-M2 4" "$WEATHER_TXT" -A 2 >> "$TLE_OUTPUT"
 # section to remove all existing scheduled jobs/captures and clear
 # all future database captures, making room for a brand new schedule
 atq_date=""
+skip_orbital_schedule=0
 if [ "${wipe_existing}" == "1" ]; then
   # remove 'at' jobs to make way for new jobs
   log "Clearing existing scheduled 'at' capture jobs..." "INFO"
@@ -155,7 +141,8 @@ if [ "${wipe_existing}" == "1" ]; then
   $SQLITE3 $DB_FILE "DELETE FROM predict_passes WHERE pass_start > $cur_ms;"
 else
   log "Determining latest scheduled capture job date..." "INFO"
-  atq_date=$(atq | sort -k 6n -k 3M -k 4n -k 5 -k 7 -k 1 | awk '{print $3 " " $4 ", " $6}' | tail -1)
+  orbital_job_ids=$("$SQLITE3" "$DB_FILE" "SELECT DISTINCT at_job_id FROM predict_passes WHERE event_type='ORBITAL' AND at_job_id IS NOT NULL AND at_job_id > 0;")
+  atq_date=$(atq | awk -v ids="$orbital_job_ids" 'BEGIN { n=split(ids,a,"\n"); for(i=1;i<=n;i++) if(a[i]!="") wanted[a[i]]=1 } ($1 in wanted)' | sort -k 6n -k 3M -k 4n -k 5 -k 7 -k 1 | awk '{print $3 " " $4 ", " $6}' | tail -1)
 fi
 
 start_time_ms=$(date +"%s")
@@ -170,15 +157,16 @@ else
   latest_scheduled_ms=$(date --date="${atq_date} 23:59:59" +"%s")
   future_schedule_ms=$(date --date="+${last_day} days 00:00:00" +"%s")
 
-  if [ "${latest_scheduled_ms}" -ge "${future_schedule_ms}" ]; then
-    log "All passes already scheduled to latest date - nothing to be done" "INFO"
-    exit
+    if [ "${latest_scheduled_ms}" -ge "${future_schedule_ms}" ]; then
+      log "All orbital passes already scheduled to latest date - skipping orbital scheduling" "INFO"
+      skip_orbital_schedule=1
   else
     start_time_ms=$(($latest_scheduled_ms + 60))
     log "Scheduling starting at ${start_time_ms} ms through ${end_time_ms} ms..." "INFO"
   fi
 fi
 
+if [ "${skip_orbital_schedule}" != "1" ]; then
 # create schedules to call respective receive scripts
 log "Scheduling new capture jobs..." "INFO"
 if [ "$NOAA_15_SCHEDULE" == "true" ]; then
@@ -201,7 +189,16 @@ if [ "$METEOR_M2_4_SCHEDULE" == "true" ]; then
   log "Scheduling Meteor-M2 4 captures..." "INFO"
   $NOAA_HOME/scripts/schedule_captures.sh "METEOR-M2 4" "receive_meteor.sh" $TLE_OUTPUT $start_time_ms $end_time_ms >> $NOAA_LOG 2>&1
 fi
+fi
 log "Done scheduling jobs!" "INFO"
+
+# Reconcile ELEKTRO-L3 GEO windows after orbital scheduling.
+log "Reconciling ELEKTRO-L3 GEO windows..." "INFO"
+if ! python3 "$NOAA_HOME/scripts/schedule_elektro_l3.py" \
+    --config "$HOME/.noaa-v2.conf" --apply >> "$NOAA_LOG" 2>&1; then
+  log "ELEKTRO-L3 GEO reconciliation failed; stopping scheduler." "ERROR"
+  exit 1
+fi
 
 # Check if the variable is set and true
 if [ "$SELECT_BEST_OVERLAPPING_PASSES" == true ]; then
