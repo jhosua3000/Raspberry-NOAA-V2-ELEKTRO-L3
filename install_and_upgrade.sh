@@ -82,6 +82,13 @@ else
   die "  Something failed with the install - please inspect the logs above"
 fi
 
+log_running "Applying user settings..."
+if $HOME/raspberry-noaa-v2/scripts/apply_settings.sh --apply; then
+  log_done "  User settings applied successfully!"
+else
+  die "  Failed to apply user settings - scheduling aborted"
+fi
+
 # source some env vars
 . "$HOME/.noaa-v2.conf"
 
@@ -154,10 +161,10 @@ log_running "Updating web content..."
 log_running "Scheduling passes for imagery..."
 if [ ! -f $WEATHER_TXT ] || [ ! -f $AMATEUR_TXT ] || [ ! -f $TLE_OUTPUT ]; then
   log_running "Scheduling with new TLE downloaded data..."
-  ./scripts/schedule.sh -t
+  ./scripts/schedule.sh -t -x
 else
   log_running "Scheduling with existing TLE data (not downloading new)..."
-  ./scripts/schedule.sh
+  ./scripts/schedule.sh -x
 fi
 log_running "Passes scheduled!"
 
